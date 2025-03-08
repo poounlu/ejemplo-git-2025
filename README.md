@@ -13,7 +13,7 @@ El contenido de cada archivo son datos minimos, y el **objetivo es que agreguen 
 
 Guiados por los docentes, realizar la siguiente tarea
 
-- Definir si utilizará Github o [Gitlab](https://gitlab.com/programacionoounlu/clases-2025/ejemplo-git)
+- Definir si utilizará [Github](https://github.com/poounlu/ejemplo-git-2025) o [Gitlab](https://gitlab.com/programacionoounlu/clases-2025/ejemplo-git)
 - Hacer Fork del repositorio original en la plataforma elegida
 - Crear una working copy con Intellij IDEA
 - Buscar su archivo y agregar el dato faltante
